@@ -168,22 +168,22 @@ Channel(method = 'alarabiya.tv',
 	
 # ----- Arabic (ar) speaking broadcasting ------	
 # Al Arabiya
-Channel(method = 'alarabiya.tv',
-        menulabel = 'Al Arabiya (ar)',
-		iconpicture = 'alarabiya.png',
-		livestreamurl = 'http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8')
+#Channel(method = 'alarabiya.tv',
+ #       menulabel = 'Al Arabiya (ar)',
+	#	iconpicture = 'alarabiya.png',
+	#	livestreamurl = 'http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8')
 	
 # Al Asr TV
 Channel(method = 'livestream.com',
-        menulabel = 'Al Asr TV (ar)',
+        menulabel = 'Al Asr TV (ar) (pb)',
 		iconpicture = 'alasrtv.png',
 		livestreamurl = 'http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8')
 
 # Al Hadath
-Channel(method = 'alarabiya.tv',
-        menulabel = 'Al Hadath (ar)',
-		iconpicture = 'alhadath.png',
-		livestreamurl = 'http://livestream7.alarabiya.tv/i/live_1@187753/index_1_av-p.m3u8')
+#Channel(method = 'alarabiya.tv',
+ #       menulabel = 'Al Hadath (ar)',
+	#	iconpicture = 'alhadath.png',
+	#	livestreamurl = 'http://livestream7.alarabiya.tv/i/live_1@187753/index_1_av-p.m3u8')
 	
 # Al Hurra
 Channel(method = 'akamaihd.net',
@@ -192,46 +192,46 @@ Channel(method = 'akamaihd.net',
 		livestreamurl = 'http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8')
 		
 # Al Jazeera arabic
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'Al Jazeera Arabic (ar)',
-		iconpicture = 'aljazeera.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_,264,528,828,.m3u8')
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'Al Jazeera Arabic (ar)',
+	#	iconpicture = 'aljazeera.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_,264,528,828,.m3u8')
 	
 # i24 News arabic
 Channel(method = 'akamaihd.net',
-        menulabel = 'i24 News (ar)',
+        menulabel = 'i24 News (ar) (pb)',
 		iconpicture = 'i24news.png',
 		livestreamurl = 'http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8')
 
 # BBC Arabic
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'BBC Arabic (ar)',
-		iconpicture = 'bbcarabic.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_ar/ls_satlink/b_,264,528,828,.m3u8')
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'BBC Arabic (ar)',
+	#	iconpicture = 'bbcarabic.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_ar/ls_satlink/b_,264,528,828,.m3u8')
 	
 # Dubai Television
-Channel(method = 'endavomedia.com',
-        menulabel = 'Dubai Television (ar)',
-		iconpicture = 'dubaitv.png',
-		livestreamurl = 'http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8')
+#Channel(method = 'endavomedia.com',
+    #    menulabel = 'Dubai Television (ar)',
+	#	iconpicture = 'dubaitv.png',
+	#	livestreamurl = 'http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8')
 		
 # France 24 Arabic
-Channel(method = 'yacast.net',
-        menulabel = 'France 24 Arabic (ar)',
-		iconpicture = 'france24arabic.png',
-		livestreamurl = 'http://vipwowza.yacast.net/f24_hlslive_ar/smil:ipad.fr24ar.smil/playlist.m3u8')
+#Channel(method = 'yacast.net',
+ #       menulabel = 'France 24 Arabic (ar)',
+	#	iconpicture = 'france24arabic.png',
+	#	livestreamurl = 'http://vipwowza.yacast.net/f24_hlslive_ar/smil:ipad.fr24ar.smil/playlist.m3u8')
 		
 # Funoon TV
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'Funoon TV (ar)',
-		iconpicture = 'funoontv.png',
-		livestreamurl = 'http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8')
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'Funoon TV (ar)',
+	#	iconpicture = 'funoontv.png',
+	#	livestreamurl = 'http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8')
 		
 # RT Arabic
-Channel(method = 'octoshape.net',
-        menulabel = 'RT Arabic (ar)',
-		iconpicture = 'rt.png',
-		livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch3_auto.smil/playlist.m3u8')
+#Channel(method = 'octoshape.net',
+ #       menulabel = 'RT Arabic (ar)',
+	#	iconpicture = 'rt.png',
+	#	livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch3_auto.smil/playlist.m3u8')
 		
 # ----- German (de) speaking broadcasting ------		
 # Alex
@@ -254,7 +254,7 @@ Channel(method = 'metafilegenerator.de',
 	
 # Deutsche Welle Europa
 Channel(method = 'metafilegenerator.de',
-        menulabel = 'Deutsche Welle Europa (de - en)',
+        menulabel = 'Deutsche Welle Europa (de - en) (pb)',
 		iconpicture = 'deutschewelle.png',
 		livestreamurl = 'http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8')
 
@@ -338,10 +338,10 @@ Channel(method = 'abcnews.com',
 		livestreamurl = 'http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=500,300,700,900,1200')	
 
 # Al Jazeera
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'Al Jazeera (en)',
-		iconpicture = 'aljazeera.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_,264,528,828,.m3u8')#http://www.aljazeera.com/watch_now/')
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'Al Jazeera (en)',
+	#	iconpicture = 'aljazeera.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_,264,528,828,.m3u8')#http://www.aljazeera.com/watch_now/')
 
 # Arirang
 Channel(method = 'arirang.co.kr',
@@ -350,10 +350,10 @@ Channel(method = 'arirang.co.kr',
 		livestreamurl = 'http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8')
 		
 # BBC World
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'BBC World (en)',
-		iconpicture = 'bbcworld.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_,264,528,828,.m3u8')
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'BBC World (en)',
+	#	iconpicture = 'bbcworld.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_,264,528,828,.m3u8')
 		
 # Bloomberg Asia
 Channel(method = 'edgesuite.net',
@@ -374,28 +374,28 @@ Channel(method = 'edgesuite.net',
 		livestreamurl = 'http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8') #http://www.bloomberg.com/live')
 		
 # CBS News
-Channel(method = 'akamaihd.net',
-        menulabel = 'CBS News (en)',
-		iconpicture = 'cbsn.png',
-		livestreamurl = 'http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on')#'http://cbsn.cbsnews.com/')
+#Channel(method = 'akamaihd.net',
+ #       menulabel = 'CBS News (en)',
+	#	iconpicture = 'cbsn.png',
+	#	livestreamurl = 'http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on')#'http://cbsn.cbsnews.com/')
 
 # CCTV News english
 Channel(method = 'streamprovider.net',
-        menulabel = 'CCTV News (en)',
+        menulabel = 'CCTV News (en) (pb)',
 		iconpicture = 'cctvnewsenglish.png',
 		livestreamurl = 'http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8')
 		
 # CNBC
 Channel(method = 'streamprovider.net',
-        menulabel = 'CNBC (en)',
+        menulabel = 'CNBC (en) (pb)',
 		iconpicture = 'cnbc.png',
 		livestreamurl = 'http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8')
 		
 # CNN International
-Channel(method = 'streamprovider.net',
-        menulabel = 'CNN International (en)',
-		iconpicture = 'cnninternational.png',
-		livestreamurl = 'http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8')
+#Channel(method = 'streamprovider.net',
+ #       menulabel = 'CNN International (en)',
+	#	iconpicture = 'cnninternational.png',
+	#	livestreamurl = 'http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8')
 	
 # Deutsche Welle Arabia
 Channel(method = 'metafilegenerator.de',
@@ -416,16 +416,16 @@ Channel(method = 'djing.com',
 		livestreamurl = 'http://cdn.djing.com/tv/live.m3u8')
 		
 # eNCA
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'eNCA (en)',
-		iconpicture = 'enca.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/enca/ls_satlink/b_,264,528,828,.m3u8')
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'eNCA (en)',
+	#	iconpicture = 'enca.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/enca/ls_satlink/b_,264,528,828,.m3u8')
 		
 # Euronews
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'Euronews (en)',
-		iconpicture = 'euronews.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/euronews_en/ls_satlink/b_,264,528,828,.m3u8')	
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'Euronews (en)',
+	#	iconpicture = 'euronews.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/euronews_en/ls_satlink/b_,264,528,828,.m3u8')	
 		
 # Fashion TV
 #Channel(method = 'website',
@@ -434,26 +434,26 @@ Channel(method = 'edgecastcdn.net',
 	#	livestreamurl = 'http://www.fashiontv.com/live')
 
 # Fox Sport
-Channel(method = 'akamaihd.net',
-        menulabel = 'Fox Sport (en)',
-		iconpicture = 'foxsport.png',
-		livestreamurl = 'http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8')
+#Channel(method = 'akamaihd.net',
+ #       menulabel = 'Fox Sport (en)',
+	#	iconpicture = 'foxsport.png',
+	#	livestreamurl = 'http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8')
 		
 # France 24 english
-Channel(method = 'yacast.net',
-        menulabel = 'France 24 (en)',
-		iconpicture = 'france24english.png',
-		livestreamurl = 'http://vipwowza.yacast.net/f24_hlslive_en/smil:ipad.fr24en.smil/playlist.m3u8') #'http://www.france24.com/en/')
+#Channel(method = 'yacast.net',
+ #       menulabel = 'France 24 (en)',
+	#	iconpicture = 'france24english.png',
+	#	livestreamurl = 'http://vipwowza.yacast.net/f24_hlslive_en/smil:ipad.fr24en.smil/playlist.m3u8') #'http://www.france24.com/en/')
 
 # Fun Channel America
-Channel(method = 'streamhoster.com',
-        menulabel = 'Fun Channel America (en)',
-		iconpicture = 'funchannelamerica.png',
-		livestreamurl = 'http://fss27.streamhoster.com/lv_funchannelf1/broadcast1/playlist.m3u8')
+#Channel(method = 'streamhoster.com',
+ #       menulabel = 'Fun Channel America (en)',
+	#	iconpicture = 'funchannelamerica.png',
+	#	livestreamurl = 'http://fss27.streamhoster.com/lv_funchannelf1/broadcast1/playlist.m3u8')
 
 # i24 News english
 Channel(method = 'akamaihd.net',
-        menulabel = 'i24 News (en)',
+        menulabel = 'i24 News (en) (pb)',
 		iconpicture = 'i24news.png',
 		livestreamurl = 'http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8')
 		
@@ -464,40 +464,40 @@ Channel(method = 'akamaihd.net',
 		livestreamurl = 'http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/master.m3u8')
 		
 # NASA Television
-Channel(method = 'nasa.gov',
-        menulabel = 'NASA Television (en)',
-		iconpicture = 'nasa.png',
-		livestreamurl = 'http://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8') #'http://www.nasa.gov/multimedia/nasatv/')
+#Channel(method = 'nasa.gov',
+ #       menulabel = 'NASA Television (en)',
+	#	iconpicture = 'nasa.png',
+	#	livestreamurl = 'http://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8') #'http://www.nasa.gov/multimedia/nasatv/')
 		
 # NHK World
 Channel(method = 'nhk.or.jp',
-        menulabel = 'NHK World (en)',
+        menulabel = 'NHK World (en) (pb)',
 		iconpicture = 'nhkworld.png',
 		livestreamurl = 'http://plslive-w.nhk.or.jp/nhkworld/app/live.m3u8') #http://www3.nhk.or.jp/nhkworld/w/movie/')
 
 # RT America
-Channel(method = 'octoshape.net',
-        menulabel = 'RT America (en)',
-		iconpicture = 'rtamerica.png',
-		livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch4_auto.smil/playlist.m3u8')	
+#Channel(method = 'octoshape.net',
+ #       menulabel = 'RT America (en)',
+	#	iconpicture = 'rtamerica.png',
+	#	livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch4_auto.smil/playlist.m3u8')	
 		
 # RT Documentaries
-Channel(method = 'octoshape.net',
-        menulabel = 'RT Documentaries (en)',
-		iconpicture = 'rtdocumentaries.png',
-		livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch5_auto.smil/playlist.m3u8')	
+#Channel(method = 'octoshape.net',
+ #       menulabel = 'RT Documentaries (en)',
+	#	iconpicture = 'rtdocumentaries.png',
+	#	livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch5_auto.smil/playlist.m3u8')	
 
 # RT UK
-Channel(method = 'octoshape.net',
-        menulabel = 'RT UK (en)',
-		iconpicture = 'rt.png',
-		livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch6_auto.smil/playlist.m3u8')	
+#Channel(method = 'octoshape.net',
+ #       menulabel = 'RT UK (en)',
+	#	iconpicture = 'rt.png',
+	#	livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch6_auto.smil/playlist.m3u8')	
 		
 # Sky News
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'Sky News (en)',
-		iconpicture = 'skynews.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8')	
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'Sky News (en)',
+	#	iconpicture = 'skynews.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8')	
 		
 # Vevo 1
 Channel(method = 'level3.net',
@@ -549,10 +549,10 @@ Channel(method = 'metafilegenerator.de',
 	#	livestreamurl = 'http://www.rtve.es/directo/la-2/')
 		
 # RT Spanish
-Channel(method = 'octoshape.net',
-        menulabel = 'RT Spanish (es)',
-		iconpicture = 'rt.png',
-		livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch2_auto.smil/playlist.m3u8')
+#Channel(method = 'octoshape.net',
+ #       menulabel = 'RT Spanish (es)',
+	#	iconpicture = 'rt.png',
+	#	livestreamurl = 'http://odna.octoshape.net/f3f5m2v4/cds/smil:ch2_auto.smil/playlist.m3u8')
 		
 # TeleCinco	
 #Channel(method = 'website',
@@ -580,10 +580,10 @@ Channel(method = 'alsace20.fr',
 		livestreamurl = 'http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8')
 
 # Antenne Centre
-Channel(method = 'akamaihd.net',
-        menulabel = 'Antenne Centre (fr)',
-		iconpicture = 'antennecentre.png',
-		livestreamurl = 'http://vm109.imust.org:1935/live/livestream/playlist.m3u8')
+#Channel(method = 'akamaihd.net',
+ #       menulabel = 'Antenne Centre (fr)',
+	#	iconpicture = 'antennecentre.png',
+	#	livestreamurl = 'http://vm109.imust.org:1935/live/livestream/playlist.m3u8')
 		
 # Arte france
 Channel(method = 'lldns.net',
@@ -628,10 +628,10 @@ Channel(method = 'infomaniak.ch',
 		livestreamurl = 'http://rtmp.infomaniak.ch/livecast/deltatv/playlist.m3u8')
 		
 # France 24 french
-Channel(method = 'yacast.net',
-        menulabel = 'France 24 (fr)',
-		iconpicture = 'france24.png',
-		livestreamurl = 'http://vipwowza.yacast.net/f24_hlslive_fr/smil:ipad.fr24fr.smil/playlist.m3u8') #'http://www.france24.com/fr/tv-en-direct-chaine-live/')
+#Channel(method = 'yacast.net',
+ #       menulabel = 'France 24 (fr)',
+	#	iconpicture = 'france24.png',
+	#	livestreamurl = 'http://vipwowza.yacast.net/f24_hlslive_fr/smil:ipad.fr24fr.smil/playlist.m3u8') #'http://www.france24.com/fr/tv-en-direct-chaine-live/')
 
 # Grand Lille TV
 Channel(method = 'yacast.net',
@@ -641,15 +641,15 @@ Channel(method = 'yacast.net',
 		
 # i24 News french
 Channel(method = 'akamaihd.net',
-        menulabel = 'i24 News (fr)',
+        menulabel = 'i24 News (fr) (pb)',
 		iconpicture = 'i24news.png',
 		livestreamurl = 'http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8')
 		
 # i Tele
-Channel(method = 'canal-plus.com',
-        menulabel = 'i Tele (fr)',
-		iconpicture = 'itele.png',
-		livestreamurl = 'http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8')
+#Channel(method = 'canal-plus.com',
+ #       menulabel = 'i Tele (fr)',
+	#	iconpicture = 'itele.png',
+	#	livestreamurl = 'http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8')
 		
 # La Deux
 Channel(method = 'infomaniak.ch',
@@ -730,10 +730,10 @@ Channel(method = 'infomaniak.ch',
 		livestreamurl = 'http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8')
 		
 # TV5 Monde
-Channel(method = 'akamaihd.net',
-        menulabel = 'TV5 Monde (fr)',
-		iconpicture = 'tv5monde.png',
-		livestreamurl = 'http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8')
+#Channel(method = 'akamaihd.net',
+ #       menulabel = 'TV5 Monde (fr)',
+	#	iconpicture = 'tv5monde.png',
+	#	livestreamurl = 'http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8')
 
 # TV Fil 78
 Channel(method = 'infomaniak.ch',
@@ -785,10 +785,10 @@ Channel(method = 'tv4e.gr',
 		livestreamurl = 'http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8')
 
 # Acheloos TV
-Channel(method = 'viiideo.gr',
-        menulabel = 'Acheloos TV (gr)',
-		iconpicture = 'acheloostv.png',
-		livestreamurl = 'http://srv1.viiideo.gr:1935/videon/axeloostv/playlist.m3u8')
+#Channel(method = 'viiideo.gr',
+ #       menulabel = 'Acheloos TV (gr)',
+	#	iconpicture = 'acheloostv.png',
+	#	livestreamurl = 'http://srv1.viiideo.gr:1935/videon/axeloostv/playlist.m3u8')
 		
 # Alpha
 Channel(method = 'akamaihd.net',
@@ -797,22 +797,22 @@ Channel(method = 'akamaihd.net',
 		livestreamurl = 'http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8')
 
 # Ant1
-Channel(method = 'ant1.gr',
-        menulabel = 'Ant1 (gr)',
-		iconpicture = 'ant.png',
-		livestreamurl = 'http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8')
+#Channel(method = 'ant1.gr',
+ #       menulabel = 'Ant1 (gr)',
+	#	iconpicture = 'ant.png',
+	#	livestreamurl = 'http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8')
 
 # Astra TV
-Channel(method = 'astratv.gr',
-        menulabel = 'Astra TV (gr)',
-		iconpicture = 'astratv.png',
-		livestreamurl = 'http://www.astratv.gr:8090/hls/livestream/index.m3u8')
+#Channel(method = 'astratv.gr',
+ #       menulabel = 'Astra TV (gr)',
+	#	iconpicture = 'astratv.png',
+	#	livestreamurl = 'http://www.astratv.gr:8090/hls/livestream/index.m3u8')
 
 # Best TV
-Channel(method = 'istoikona.net',
-        menulabel = 'Best TV (gr)',
-		iconpicture = 'besttv.png',
-		livestreamurl = 'http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8')
+#Channel(method = 'istoikona.net',
+ #       menulabel = 'Best TV (gr)',
+	#	iconpicture = 'besttv.png',
+	#	livestreamurl = 'http://smooth.istoikona.net/besttv.isml/manifest(format=m3u8-aapl).m3u8')
 		
 # Crete TV
 Channel(method = 'cretetv.gr',
@@ -859,7 +859,7 @@ Channel(method = '105.net',
 		
 # Rai News
 Channel(method = 'rai.it',
-        menulabel = 'Rai News (it)',
+        menulabel = 'Rai News (it) (pb)',
 		iconpicture = 'rainews.png',
 		livestreamurl = 'http://httpstream2.rai.it/rn24.isml/Manifest(format=m3u8-aapl)') #http://www.rainews.it/dl/rainews/live/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html')
 		
@@ -896,10 +896,10 @@ Channel(method = '105.net',
 
 # ----- Persian (pe) speaking broadcasting ------
 # BBC Persian
-Channel(method = 'edgecastcdn.net',
-        menulabel = 'BBC Persian (pe)',
-		iconpicture = 'bbcpersian.png',
-		livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_persian/ls_satlink/b_,264,528,828,.m3u8')
+#Channel(method = 'edgecastcdn.net',
+ #       menulabel = 'BBC Persian (pe)',
+	#	iconpicture = 'bbcpersian.png',
+	#	livestreamurl = 'http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_persian/ls_satlink/b_,264,528,828,.m3u8')
 
 # IFilm
 Channel(method = 'akamaihd.net',
@@ -928,227 +928,227 @@ Channel(method = 'akamaihd.net',
 
 # ----- Russian (ru) speaking broadcasting ------
 # 2x2
-Channel(method = 'novotelecom.ru',
-        menulabel = "2x2 (ru)",
-		iconpicture = '2x2.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "2x2 (ru)",
+	#	iconpicture = '2x2.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8')	
 		
 # A-One
-Channel(method = 'novotelecom.ru',
-        menulabel = "A-One (ru)",
-		iconpicture = 'a-one.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "A-One (ru)",
+	#	iconpicture = 'a-one.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8')	
 		
 # Domashniy
-Channel(method = 'novotelecom.ru',
-        menulabel = "Domashniy (ru)",
-		iconpicture = 'domashniy.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/domashny/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Domashniy (ru)",
+	#	iconpicture = 'domashniy.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/domashny/tvrec/playlist.m3u8')	
 		
 # Dozhd
-Channel(method = 'novotelecom.ru',
-        menulabel = "Dozhd (ru)",
-		iconpicture = 'dozhd.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/rain/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Dozhd (ru)",
+	#	iconpicture = 'dozhd.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/rain/tvrec/playlist.m3u8')	
 		
 # For Kids
-Channel(method = 'novotelecom.ru',
-        menulabel = "For Kids (ru)",
-		iconpicture = 'forkids.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "For Kids (ru)",
+	#	iconpicture = 'forkids.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8')	
 		
 # Friday
-Channel(method = 'novotelecom.ru',
-        menulabel = "Friday (ru)",
-		iconpicture = 'friday.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Friday (ru)",
+	#	iconpicture = 'friday.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8')	
 		
 # JV
-Channel(method = 'novotelecom.ru',
-        menulabel = "JV (ru)",
-		iconpicture = 'jv.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/jv/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "JV (ru)",
+	#	iconpicture = 'jv.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/jv/tvrec/playlist.m3u8')	
 		
 # Karusel
-Channel(method = 'novotelecom.ru',
-        menulabel = "Karusel (ru)",
-		iconpicture = 'karusel.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Karusel (ru)",
+	#	iconpicture = 'karusel.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8')	
 		
 # Mama
-Channel(method = 'novotelecom.ru',
-        menulabel = "Mama (ru)",
-		iconpicture = 'mama.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Mama (ru)",
+	#	iconpicture = 'mama.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8')	
 		
 # Mir 24
-Channel(method = 'novotelecom.ru',
-        menulabel = "Mir 24 (ru)",
-		iconpicture = 'mir24.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Mir 24 (ru)",
+	#	iconpicture = 'mir24.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8')	
 		
 # Musicbox Russia
-Channel(method = 'novotelecom.ru',
-        menulabel = "Musicbox Russia (ru)",
-		iconpicture = 'musicboxrussia.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Musicbox Russia (ru)",
+	#	iconpicture = 'musicboxrussia.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8')	
 		
 # Musicbox TV
-Channel(method = 'novotelecom.ru',
-        menulabel = "Musicbox TV (ru)",
-		iconpicture = 'musicboxtv.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Musicbox TV (ru)",
+	#	iconpicture = 'musicboxtv.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8')	
 		
 # Nickelodeon
-Channel(method = 'novotelecom.ru',
-        menulabel = "Nickelodeon (ru)",
-		iconpicture = 'nickelodeon.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Nickelodeon (ru)",
+	#	iconpicture = 'nickelodeon.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8')	
 		
 # NSK 49
-Channel(method = 'novotelecom.ru',
-        menulabel = "NSK 49 (ru)",
-		iconpicture = 'nsk49.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "NSK 49 (ru)",
+	#	iconpicture = 'nsk49.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8')	
 		
 # NST
-Channel(method = 'novotelecom.ru',
-        menulabel = "NST (ru)",
-		iconpicture = 'nst.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/nstv/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "NST (ru)",
+	#	iconpicture = 'nst.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/nstv/tvrec/playlist.m3u8')	
 		
 # NTV
-Channel(method = 'novotelecom.ru',
-        menulabel = "NTV (ru)",
-		iconpicture = 'ntv.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "NTV (ru)",
+	#	iconpicture = 'ntv.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8')	
 		
 # Obraz (not sure at all of the channel name)
-Channel(method = 'novotelecom.ru',
-        menulabel = "Obraz (ru)",
-		iconpicture = 'obraz.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Obraz (ru)",
+	#	iconpicture = 'obraz.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8')	
 		
 # OTS
-Channel(method = 'novotelecom.ru',
-        menulabel = "OTS (ru)",
-		iconpicture = 'ots.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/ots/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "OTS (ru)",
+	#	iconpicture = 'ots.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/ots/tvrec/playlist.m3u8')	
 		
 # Perec
-Channel(method = 'novotelecom.ru',
-        menulabel = "Perec (ru)",
-		iconpicture = 'perec.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Perec (ru)",
+	#	iconpicture = 'perec.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8')	
 		
 # Pervyi Kanal
-Channel(method = 'novotelecom.ru',
-        menulabel = "Pervyi Kanal (ru)",
-		iconpicture = 'pervyikanal.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/1kanal/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Pervyi Kanal (ru)",
+	#	iconpicture = 'pervyikanal.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/1kanal/tvrec/playlist.m3u8')	
 		
 # Petersburg 5 Kanal
-Channel(method = 'novotelecom.ru',
-        menulabel = "Petersburg 5 Kanal (ru)",
-		iconpicture = 'petersburg5kanal.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Petersburg 5 Kanal (ru)",
+	#	iconpicture = 'petersburg5kanal.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8')	
 		
 # RBK
-Channel(method = 'novotelecom.ru',
-        menulabel = "RBK (ru)",
-		iconpicture = 'rbk.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "RBK (ru)",
+	#	iconpicture = 'rbk.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8')	
 		
 # Ren TV
-Channel(method = 'novotelecom.ru',
-        menulabel = "Ren TV (ru)",
-		iconpicture = 'rentv.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/rentv/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Ren TV (ru)",
+	#	iconpicture = 'rentv.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/rentv/tvrec/playlist.m3u8')	
 		
 # Rossiya 1
-Channel(method = 'novotelecom.ru',
-        menulabel = "Rossiya 1 (ru)",
-		iconpicture = 'rossiya1.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Rossiya 1 (ru)",
+	#	iconpicture = 'rossiya1.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8')	
 		
 # Rossiya 2
-Channel(method = 'novotelecom.ru',
-        menulabel = "Rossiya 2 (ru)",
-		iconpicture = 'rossiya2.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Rossiya 2 (ru)",
+	#	iconpicture = 'rossiya2.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8')	
 		
 # Rossiya 24
-Channel(method = 'novotelecom.ru',
-        menulabel = "Rossiya 24 (ru)",
-		iconpicture = 'rossiya24.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/vesti/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Rossiya 24 (ru)",
+	#	iconpicture = 'rossiya24.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/vesti/tvrec/playlist.m3u8')	
 		
 # Rossiya Kultura
-Channel(method = 'novotelecom.ru',
-        menulabel = "Rossiya Kultura (ru)",
-		iconpicture = 'rossiyakultura.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Rossiya Kultura (ru)",
+	#	iconpicture = 'rossiyakultura.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8')	
 		
 # Sport 1
-Channel(method = 'novotelecom.ru',
-        menulabel = "Sport 1 (ru)",
-		iconpicture = 'sport1.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Sport 1 (ru)",
+	#	iconpicture = 'sport1.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8')	
 		
 # STS
-Channel(method = 'novotelecom.ru',
-        menulabel = "STS (ru)",
-		iconpicture = 'sts.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "STS (ru)",
+	#	iconpicture = 'sts.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8')	
 		
 # Techno 24
-Channel(method = 'novotelecom.ru',
-        menulabel = "Techno 24 (ru)",
-		iconpicture = 'techno24.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/24techno/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Techno 24 (ru)",
+	#	iconpicture = 'techno24.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/24techno/tvrec/playlist.m3u8')	
 		
 # Telekanal Futbol
-Channel(method = 'novotelecom.ru',
-        menulabel = "Telekanal Futbol (ru)",
-		iconpicture = 'telekanalfutbol.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "Telekanal Futbol (ru)",
+	#	iconpicture = 'telekanalfutbol.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8')	
 		
 # TV3
-Channel(method = 'novotelecom.ru',
-        menulabel = "TV3 (ru)",
-		iconpicture = 'tv3.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "TV3 (ru)",
+	#	iconpicture = 'tv3.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8')	
 		
 # TV21
-Channel(method = 'novotelecom.ru',
-        menulabel = "TV21 (ru)",
-		iconpicture = 'tv21.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/tv21/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "TV21 (ru)",
+	#	iconpicture = 'tv21.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/tv21/tvrec/playlist.m3u8')	
 		
 # TVC
-Channel(method = 'novotelecom.ru',
-        menulabel = "TVC (ru)",
-		iconpicture = 'tvc.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "TVC (ru)",
+	#	iconpicture = 'tvc.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8')	
 		
 # TV Zvezda
-Channel(method = 'novotelecom.ru',
-        menulabel = "TV Zvezda (ru)",
-		iconpicture = 'tvzvezda.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/zvezda/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "TV Zvezda (ru)",
+	#	iconpicture = 'tvzvezda.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/zvezda/tvrec/playlist.m3u8')	
 		
 # U-TV
-Channel(method = 'novotelecom.ru',
-        menulabel = "U-TV (ru)",
-		iconpicture = 'utv.png',
-		livestreamurl = 'http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8')	
+#Channel(method = 'novotelecom.ru',
+ #       menulabel = "U-TV (ru)",
+	#	iconpicture = 'utv.png',
+	#	livestreamurl = 'http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8')	
 		
 # ----- Turkish (tr) speaking broadcasting ------
 # TBMM TV
-Channel(method = 'akamaihd.net',
-        menulabel = "TBMM TV (tr)",
-		iconpicture = 'tbmmtv.png',
-		livestreamurl = 'http://meclistv-lh.akamaihd.net/i/event_1@190503/master.m3u8')	
+#Channel(method = 'akamaihd.net',
+ #       menulabel = "TBMM TV (tr)",
+	#	iconpicture = 'tbmmtv.png',
+	#	livestreamurl = 'http://meclistv-lh.akamaihd.net/i/event_1@190503/master.m3u8')	
 		
 # TRT
 Channel(method = 'akamaihd.net',
@@ -1199,10 +1199,10 @@ Channel(method = 'akamaihd.net',
 		livestreamurl = 'http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8')
 
 # TRT Kurdi
-Channel(method = 'akamaihd.net',
-        menulabel = "TRT Kurdi (tr)",
-		iconpicture = 'trtkurdi.png',
-		livestreamurl = 'http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8')	
+#Channel(method = 'akamaihd.net',
+ #       menulabel = "TRT Kurdi (tr)",
+	#	iconpicture = 'trtkurdi.png',
+	#	livestreamurl = 'http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8')	
 
 # TRT Muzik
 Channel(method = 'akamaihd.net',
@@ -1217,10 +1217,10 @@ Channel(method = 'akamaihd.net',
 		livestreamurl = 'http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8')	
 		
 # TRT Spor
-Channel(method = 'akamaihd.net',
-        menulabel = 'TRT Spor (tr)',
-		iconpicture = 'trtspor.png',
-		livestreamurl = 'http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8')
+#Channel(method = 'akamaihd.net',
+ #       menulabel = 'TRT Spor (tr)',
+	#	iconpicture = 'trtspor.png',
+	#	livestreamurl = 'http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8')
 		
 # TRT Turk
 Channel(method = 'akamaihd.net',
