@@ -142,25 +142,25 @@ class Channel(object):
 #
 # ----- Preliminary acronym explanations -----
 # Language
-Channel(method = 'alarabiya.tv',
+Channel(method = 'akamaihd.net',
         menulabel = 'Help: (ar,en,fr,...) = channel language',
 		iconpicture = '00helpchannellanguage.png',
 		livestreamurl = '')
 	
 # Other language
-Channel(method = 'alarabiya.tv',
+Channel(method = 'akamaihd.net',
         menulabel = 'Help: (de - en) = sometime in another language',
 		iconpicture = '00helpchannelanotherlanguage.png',
 		livestreamurl = '')
 	
 # Part-time broadcasting
-Channel(method = 'alarabiya.tv',
+Channel(method = 'akamaihd.net',
         menulabel = 'Help: (..) (pb) = daily part-time Internet broadcasting',
 		iconpicture = '00helpparttimebroadcasting.png',
 		livestreamurl = '')
 	
 # Geographical restricted area
-Channel(method = 'alarabiya.tv',
+Channel(method = 'akamaihd.net',
         menulabel = 'Help: (..) (ra) = sometime restricted area',
 		iconpicture = '00helprestrictedarea.png',
 		livestreamurl = '')
@@ -310,63 +310,9 @@ Channel(method = 'akamaihd.net',
 #
 # test
 #Channel(method = 'akamaihd.net',
- #       menulabel = 'Test 4funtv',
-	#	iconpicture = '',
-	#	livestreamurl = 'http://mtv.ashttp7.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SD/playlist.m3u8')
-
-# test 2
-#Channel(method = 'akamaihd.net',
- #       menulabel = 'Test MAtele',
-	#	iconpicture = '',
-	#	livestreamurl = 'http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/playlist.m3u8')	
-
-# test 3
-#Channel(method = 'akamaihd.net',
- #       menulabel = "Test cinefil",
-	#	iconpicture = '',
-	#	livestreamurl = 'http://teleclub.fr/cinefil.mp4')	
-
-# test 4
-#Channel(method = 'akamaihd.net',
- #       menulabel = 'Test cinetoile',
-	#	iconpicture = '',
-	#	livestreamurl = 'http://teleclub.fr/cinetoile.mp4')	
-
-# test 5
-#Channel(method = 'akamaihd.net',
- #       menulabel = "Test assemblee nationale???",
-	#	iconpicture = '',
-	#	livestreamurl = 'http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8')	
-		
-# test 6
-#Channel(method = 'akamaihd.net',
- #       menulabel = "Test antenne centre",
-	#	iconpicture = '',
-	#	livestreamurl = 'http://vm109.imust.org:1935/live/livestream/playlist.m3u8')
-		
-# test 7
-#Channel(method = 'akamaihd.net',
- #       menulabel = "Test tele mb",
-	#	iconpicture = '',
-	#	livestreamurl = 'http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8')
-		
-# test 8
-#Channel(method = 'akamaihd.net',
- #       menulabel = "Test tele bruxelles",
-	#	iconpicture = '',
-	#	livestreamurl = 'http://37.187.156.238:1935/live/live.sdp/playlist.m3u8')
-		
-# test 9
-#Channel(method = 'akamaihd.net',
- #       menulabel = "Test canal c",
-	#	iconpicture = '',
-	#	livestreamurl = 'http://streaming06.axeweb.be:1935/canalc_live/_definst_/live.stream/playlist.m3u8')
-		
-# test 10
-#Channel(method = 'akamaihd.net',
- #       menulabel = "Test canal zoom",
-	#	iconpicture = '',
-	#	livestreamurl = 'http://streaming06.axeweb.be:1935/canalzoom_live/_definst_/live.stream/playlist.m3u8')
+ #       menulabel = 'channel title',
+	#	iconpicture = 'iconname.png',
+	#	livestreamurl = 'http://.../urlfromakamaind.net/.../.m3u8')
 		
 # ---------- End of TV channel creation ----------
 
